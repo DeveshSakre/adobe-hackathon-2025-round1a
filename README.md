@@ -1,7 +1,7 @@
 # adobe-hackathon-2025-round1a
 Submission for Adobe India Hackathon 2025 – Round 1A: PDF Outline Extractor using PyMuPDF and Docker.
 
-# 🧠 Adobe India Hackathon 2025 – Round 1A
+#  Adobe India Hackathon 2025 – Round 1A
 
 **Challenge:** Connecting the Dots – Understand Your Document  
 **Task:** Automatically extract structured outlines (Title, H1, H2, H3) from PDF files.
@@ -15,13 +15,13 @@ This project processes PDF files and outputs a structured `JSON` outline contain
 - Section headings (H1, H2, H3) with level and page number
 
 The solution is built using:
-- 🐍 Python 3.9
-- 📄 PyMuPDF (`fitz`) for PDF parsing
-- 🐳 Docker for portability and offline execution
+-  Python 3.9
+-  PyMuPDF (`fitz`) for PDF parsing
+-  Docker for portability and offline execution
 
 ---
 
-## 🧠 Approach
+##  Approach
 
 We approach this challenge with a modular pipeline:
 
